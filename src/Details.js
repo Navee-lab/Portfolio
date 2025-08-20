@@ -110,7 +110,7 @@ export const projectDetails = [
     description: ` Developed an AI Reminder Chatbot using JavaScript, Node.js, and API's to enable natural language chat and smart 
 reminder scheduling. Integrated email and browser notifications, for persistence and a user-friendly chat interface.`,
     techstack: "HTML/CSS, JavaScript, Node.js, React.js, Express.js, API's , NodeMailer",
-    previewLink: "https://ai-reminder-chatbot-haci.vercel.app/",
+    previewLink: "https://ai-reminder-chatbot-hacimyairc.vercel.app/",
     githubLink: "https://github.com/Navee-lab/Ai-Reminder-Chatbot",
   },
   
