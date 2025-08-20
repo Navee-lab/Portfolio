@@ -1,7 +1,7 @@
 // Enter all your detials in this file
 // Logo images
 
-import profile from "./assets/ui/mypic.jpg"; 
+import profile from "./assets/ui/mypic.png"; 
 
 
 // Tech stack images
